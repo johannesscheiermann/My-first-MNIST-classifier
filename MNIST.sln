@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MNIST.Classifier", "MNIST.Classifier\MNIST.Classifier.csproj", "{DC17CDB8-F64C-4A81-8003-CD3AC620FFC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions", "Extensions\Extensions.csproj", "{895E1ADC-0089-4199-94B3-F0B9D65E26C9}"
+EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFolder", "SolutionFolder", "{6BA94C57-CA6C-43AD-93E0-9E921E51346F}"
 ProjectSection(SolutionItems) = preProject
 	Directory.build.props = Directory.build.props
@@ -17,5 +19,9 @@ Global
 		{DC17CDB8-F64C-4A81-8003-CD3AC620FFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC17CDB8-F64C-4A81-8003-CD3AC620FFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC17CDB8-F64C-4A81-8003-CD3AC620FFC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{895E1ADC-0089-4199-94B3-F0B9D65E26C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895E1ADC-0089-4199-94B3-F0B9D65E26C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895E1ADC-0089-4199-94B3-F0B9D65E26C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895E1ADC-0089-4199-94B3-F0B9D65E26C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
